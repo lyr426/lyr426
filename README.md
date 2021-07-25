@@ -5,7 +5,7 @@
 
 ## 🙋‍♀️ Who Am I
 🌱 I'm Yuri Lee, a growing Developer </br>
-💻 Sejong Univ, Department of Intelligent Mechatronics Engineering </br>
+💻 Sejong Univ. Department of Intelligent Mechatronics Engineering </br>
 
 
 
